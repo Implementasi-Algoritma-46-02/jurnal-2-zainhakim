@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: MOCH ZAIN HAKIM
 
-NIM : 
+NIM :607062300144
 
 ## Instruksi
 
