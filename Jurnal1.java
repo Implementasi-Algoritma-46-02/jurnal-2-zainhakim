@@ -4,3 +4,5 @@ public class Jurnal1 {
         System.out.println("hello world");
     }
 }
+//Nama : Moch Zain Hakim
+//NIM : 607062300144
